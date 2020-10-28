@@ -1,1 +1,1 @@
-# Word Search Game
+# Word-Search-Solver
