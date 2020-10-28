@@ -19,4 +19,4 @@ Run the program using the following command:
 python solver.py
 ```
 
-The program will return true if it detects the word in the word otherwise it will return false.
+The program will return true if it detects the presence of the given word in the board otherwise it will return false.
