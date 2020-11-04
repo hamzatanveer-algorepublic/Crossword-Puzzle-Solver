@@ -1,4 +1,4 @@
-# 👾 Cross Word Puzzle Solver
+# 👾 Crossword Puzzle Solver
 Returns true if the word is present in the board, false otherwise.
 
 ## 🏗 SETUP
